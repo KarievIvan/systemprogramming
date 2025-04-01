@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\bin\Debug\net8.0\Task1_ParallelExecution.exe
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\bin\Debug\net8.0\Task1_ParallelExecution.deps.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\bin\Debug\net8.0\Task1_ParallelExecution.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\bin\Debug\net8.0\Task1_ParallelExecution.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\bin\Debug\net8.0\Task1_ParallelExecution.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\refint\Task1_ParallelExecution.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\Task1_ParallelExecution.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\Task1_ParallelExecution\obj\Debug\net8.0\ref\Task1_ParallelExecution.dll

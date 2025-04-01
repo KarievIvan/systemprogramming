@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\bin\Debug\net8.0\T4_ParallelInvoke.exe
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\bin\Debug\net8.0\T4_ParallelInvoke.deps.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\bin\Debug\net8.0\T4_ParallelInvoke.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\bin\Debug\net8.0\T4_ParallelInvoke.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\bin\Debug\net8.0\T4_ParallelInvoke.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\refint\T4_ParallelInvoke.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\T4_ParallelInvoke.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T4_ParallelInvoke\obj\Debug\net8.0\ref\T4_ParallelInvoke.dll

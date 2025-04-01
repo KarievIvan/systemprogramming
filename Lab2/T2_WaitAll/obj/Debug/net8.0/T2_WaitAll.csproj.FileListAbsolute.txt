@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\bin\Debug\net8.0\T2_WaitAll.exe
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\bin\Debug\net8.0\T2_WaitAll.deps.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\bin\Debug\net8.0\T2_WaitAll.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\bin\Debug\net8.0\T2_WaitAll.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\bin\Debug\net8.0\T2_WaitAll.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\refint\T2_WaitAll.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\T2_WaitAll.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T2_WaitAll\obj\Debug\net8.0\ref\T2_WaitAll.dll

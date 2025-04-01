@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\bin\Debug\net8.0\T3_LambdaTask.exe
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\bin\Debug\net8.0\T3_LambdaTask.deps.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\bin\Debug\net8.0\T3_LambdaTask.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\bin\Debug\net8.0\T3_LambdaTask.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\bin\Debug\net8.0\T3_LambdaTask.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\refint\T3_LambdaTask.dll
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.pdb
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\T3_LambdaTask.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Системне програмування\Lab2_1\T3_LambdaTask\obj\Debug\net8.0\ref\T3_LambdaTask.dll
